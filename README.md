@@ -1,4 +1,4 @@
-# Code for experients on different densities
+# Code for experiments on different densities
 
 <br>
 
